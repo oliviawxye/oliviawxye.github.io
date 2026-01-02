@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My website'
+title = 'Olivia Ye'
 theme = 'typo'
 
 # Google analytics code
@@ -10,6 +10,7 @@ googleAnalytics = "G-xxxxxxxxx"
 tag = 'tags'
 
 [params]
+custom_css = ["assets/_custom.css"]
 # Meta description
 description = "A Tech Blog"
 
@@ -21,13 +22,13 @@ hideHeader = false
 # Intro on main page, content is markdown
 homeIntroTitle = 'Hi!'
 homeIntroContent = """
-I am an Italian Software Engineer with a strong foundation in computer science and a passion for solving complex problems.
-I am interested in a range of topics, including algorithms, distributed systems, databases, and information retrieval.
+I am a robotics with a strong foundation in mechatronics engineering and a passion for solving complex problems.
+I am interested in a range of topics, sensor integration, robotics software, and electrical engineering.
 """
 
 # Collection to display on home
-homeCollectionTitle = 'Posts'
-homeCollection = 'posts'
+# homeCollectionTitle = 'Posts'
+# homeCollection = 'posts'
 
 # Lists parameters
 paginationSize = 100
@@ -38,20 +39,20 @@ listDateFormat = '2 Jan 2006'
 [params.breadcrumbs]
 enabled = true
 showCurrentPage = true
-home = "Home"
+home = "~"
 
 # Social icons
 [[params.social]]
 name = "linkedin"
-url = "https://www.linkedin.com/in/user/"
+url = "https://www.linkedin.com/in/olivia-w-ye/"
 
-[[params.social]]
-name = "medium"
-url = "https://medium.com/@user"
+#[[params.social]]
+#name = "substack"
+#url = "https://medium.com/@user"
 
 [[params.social]]
 name = "github"
-url = "https://github.com/user"
+url = "https://github.com/oliviawxye"
 
 # Main menu pages
 [[params.menu]]
@@ -59,17 +60,29 @@ name = "home"
 url = "/"
 
 [[params.menu]]
-name = "posts"
-url = "/posts"
-
-[[params.menu]]
 name = "about"
 url = "/about"
+
+[[params.menu]]
+name = "resume & portfolio"
+url = "/resume_portfolio"
+
+[[params.menu]]
+name = "snapshots"
+url = "/snapshots"
+
+# [[params.menu]]
+# name = "notes"
+# url = "/https://notes-82i.pages.dev/"
+
 
 # Syntax highlight on code blocks
 [markup]
 [markup.highlight]
 style = 'algol'
+
+[markup.goldmark.renderer]
+unsafe = true
 
 # Giscus comments
 [params.giscus]
@@ -84,3 +97,7 @@ theme = "preferred_color_scheme"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+googlefonts = ["Source Serif 4", "Fira Mono"]
+fontbody = 'Source Serif 4'
+fontcode = 'Fira Mono'

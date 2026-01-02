@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Olivia Ye</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Olivia Ye</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;figure class=&#34;&#34;&gt;&#xA;&#xA;    &lt;div class=&#34;img-container&#34; style=&#34;--w: 5472; --h: 3648;&#34;&gt;&#xA;        &lt;img loading=&#34;lazy&#34; alt=&#34;Me&#34; src=&#34;http://localhost:1313/olivia.jpg&#34; width=&#34;5472&#34; height=&#34;3648&#34;&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;    &#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Hi, I&amp;rsquo;m Olivia. At my core, I have deep passion for robotics engineering in all aspects - whether that falls within autonomy software, hardware integration, or sensors &amp;amp; electrical design. My current rabbit hole: sensors &amp;amp; autonomy software, and deep learning as it relates to robotics.&lt;/p&gt;&#xA;&lt;p&gt;Over the course of my degree, I&amp;rsquo;ve done a little bit of everything, and I&amp;rsquo;m always open to chat. Hit me up about anything engineering - or, running a half-marathon, doing a triathlon (one day!), and classical music, just some of my recent interests! You can find me at &lt;a href=&#34;mailto:olivia.ye@uwaterloo.ca&#34;&gt;olivia.ye@uwaterloo.ca&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>my first post</title>
+      <link>http://localhost:1313/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/</guid>
+      <description>first post</description>
+    </item>
+    <item>
+      <title>resume &amp; portfolio</title>
+      <link>http://localhost:1313/resume_portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resume_portfolio/</guid>
+      <description>&lt;p&gt;Link to download my &lt;a href=&#34;https://drive.google.com/file/d/1AddlSFoSU0CjnGYj-jH4MqdTRTMEif1a/&#34;&gt;resume&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Link to download my &lt;a href=&#34;https://drive.google.com/file/d/1l0cnS-PJ3I5TwcxpGLklDWtQvhY-JnB4/&#34;&gt;portfolio&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>snapshots</title>
+      <link>http://localhost:1313/snapshots/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/snapshots/</guid>
+      <description>&lt;p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;figure class=&#34;&#34;&gt;&#xA;&#xA;    &lt;div class=&#34;img-container&#34; &gt;&#xA;        &lt;img loading=&#34;lazy&#34; alt=&#34;Olivia at Yosemite&#34; src=&#34;http://localhost:1313/snapshots/yosemite-olivia.jpeg&#34; &gt;&#xA;    &lt;/div&gt;&#xA;&#xA;    &#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;figure class=&#34;&#34;&gt;&#xA;&#xA;    &lt;div class=&#34;img-container&#34; &gt;&#xA;        &lt;img loading=&#34;lazy&#34; alt=&#34;Singapore&#34; src=&#34;http://localhost:1313/snapshots/singapore.jpeg&#34; &gt;&#xA;    &lt;/div&gt;&#xA;&#xA;    &#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;div style=&#34;display: flex; gap: 10px; flex-wrap: wrap;&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:1313/snapshots/whoop.jpeg&#34; alt=&#34;Whoop&#34; style=&#34;width: 49%; height: auto;&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:1313/snapshots/lands-end.jpeg&#34; alt=&#34;Lands End&#34; style=&#34;width: 49%; height: auto;&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt; &#xA;&lt;div style=&#34;display: flex; gap: 10px; flex-wrap: wrap;&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:1313/snapshots/tai-mo-shan-waterfall.jpeg&#34; alt=&#34;Tai Mo Shan Waterfall&#34; style=&#34;width: 49%; height: auto;&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:1313/snapshots/yosemite-rock.jpeg&#34; alt=&#34;Yosemite Rock&#34; style=&#34;width: 49%; height: auto;&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;figure class=&#34;&#34;&gt;&#xA;&#xA;    &lt;div class=&#34;img-container&#34; &gt;&#xA;        &lt;img loading=&#34;lazy&#34; alt=&#34;Yangshuo&#34; src=&#34;http://localhost:1313/snapshots/yangshuo.jpeg&#34; &gt;&#xA;    &lt;/div&gt;&#xA;&#xA;    &#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;figure class=&#34;&#34;&gt;&#xA;&#xA;    &lt;div class=&#34;img-container&#34; &gt;&#xA;        &lt;img loading=&#34;lazy&#34; alt=&#34;Yosemite Mirror Late&#34; src=&#34;http://localhost:1313/snapshots/mirror-lake.jpeg&#34; &gt;&#xA;    &lt;/div&gt;&#xA;&#xA;    &#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;div style=&#34;display: flex; gap: 10px; flex-wrap: wrap;&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:1313/snapshots/napa-deer.jpeg&#34; alt=&#34;Napa Deer&#34; style=&#34;width: 49%; height: auto;&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:1313/snapshots/acadia-olivia.JPG&#34; alt=&#34;Olivia at Acadia&#34; style=&#34;width: 49%; height: auto;&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;figure class=&#34;&#34;&gt;&#xA;&#xA;    &lt;div class=&#34;img-container&#34; &gt;&#xA;        &lt;img loading=&#34;lazy&#34; alt=&#34;SF Bib Pickup&#34; src=&#34;http://localhost:1313/snapshots/sf-bibpickup.jpeg&#34; &gt;&#xA;    &lt;/div&gt;&#xA;&#xA;    &#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

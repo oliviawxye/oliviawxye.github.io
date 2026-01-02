@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'SourceSerifPro';
+    src: url('/fonts/SourceSerifPro/SourceSerif4-Regular.ttf.woff2') format('woff2');
+    font-weight: light;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SourceSerifPro';
+    src: url('/fonts/SourceSerifPro/SourceSerif4-It.ttf.woff2') format('woff2');
+    font-weight: light;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SourceSerifPro';
+    src: url('/fonts/SourceSerifPro/SourceSerif4-Semibold.ttf.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SourceSerifPro';
+    src: url('/fonts/SourceSerifPro/SourceSerif4-SemiboldIt.ttf.woff2') format('woff2');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
