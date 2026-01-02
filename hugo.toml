@@ -23,7 +23,7 @@ hideHeader = false
 homeIntroTitle = 'Hi!'
 homeIntroContent = """
 I am a robotics engineer with a strong foundation in mechatronics engineering and a passion for solving complex problems.
-I am interested in a range of topics, sensor integration, robotics software, and electrical engineering.
+I am interested in a range of topics, including sensor integration, robotics software, and electrical engineering.
 """
 
 # Collection to display on home
@@ -70,6 +70,10 @@ url = "/resume_portfolio"
 [[params.menu]]
 name = "snapshots"
 url = "/snapshots"
+
+[[params.menu]]
+name = "reads"
+url = "/reads"
 
 # [[params.menu]]
 # name = "notes"
