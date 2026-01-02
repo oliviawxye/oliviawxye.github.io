@@ -22,7 +22,7 @@ hideHeader = false
 # Intro on main page, content is markdown
 homeIntroTitle = 'Hi!'
 homeIntroContent = """
-I am a robotics with a strong foundation in mechatronics engineering and a passion for solving complex problems.
+I am a robotics engineer with a strong foundation in mechatronics engineering and a passion for solving complex problems.
 I am interested in a range of topics, sensor integration, robotics software, and electrical engineering.
 """
 
