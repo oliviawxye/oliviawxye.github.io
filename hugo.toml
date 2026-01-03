@@ -22,8 +22,14 @@ hideHeader = false
 # Intro on main page, content is markdown
 homeIntroTitle = 'Hi!'
 homeIntroContent = """
-I am a robotics engineer with a strong foundation in mechatronics engineering and a passion for solving complex problems.
-I am interested in a range of topics, including sensor integration, robotics software, and electrical engineering.
+I am a robotics engineer with a strong foundation in mechatronics engineering and a passion for solving complex problems. I am interested in a range of topics, including robotics software, sensor integration, machine learning, and electrical engineering.
+![Me](olivia.jpg)
+
+Previously, I've worked at [_**Medra**_](https://www.medra.ai/), where I was able to write motion control software for a 7-DOF robotic arm both in real life and simulation. At [_**Zoox**_](https://zoox.com/), I worked on hardware systems integration, getting my hands deep into the nitty gritty parts of autonomous vehicles. At [_**WHOOP**_](https://www.whoop.com/ca/en/) and [_**Verkada**_](https://www.verkada.com/), I delved into the consumer electronics space, designing, validating, and shipping electrical hardware for wearables and physical security on a scale of thousands to a millions of units.
+
+I've also worked on many projects related to mechatronics systems, perception, ML, and more, from quick weekend hackathons to multi-year space projects. I see my ability to understand all components of a mechatronics system and agility in working with small and nimble teams to large complex organizations as one of my greatest strengths.
+
+I'm always open to chat. Hit me up about anything engineering - or, running a half-marathon, doing a triathlon (one day!), and classical music, just some of my recent interests! You can find me on LinkedIn or at olivia.ye@uwaterloo.ca.
 """
 
 # Collection to display on home
@@ -59,9 +65,9 @@ url = "https://github.com/oliviawxye"
 name = "home"
 url = "/"
 
-[[params.menu]]
-name = "about"
-url = "/about"
+# [[params.menu]]
+# name = "about"
+# url = "/about"
 
 [[params.menu]]
 name = "resume & portfolio"

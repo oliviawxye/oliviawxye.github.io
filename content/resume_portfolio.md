@@ -5,6 +5,6 @@ hideBackToTop: true
 hidePagination: true
 ---
 
-Link to download my [resume](https://drive.google.com/file/d/1AddlSFoSU0CjnGYj-jH4MqdTRTMEif1a/)
+Link to my [resume](https://drive.google.com/file/d/1oqSLz6t8tkbkur4_KjMpMsp9KLL7cnXg/)
 
-Link to download my [portfolio](https://drive.google.com/file/d/1l0cnS-PJ3I5TwcxpGLklDWtQvhY-JnB4/)
+Link to my [portfolio](https://drive.google.com/file/d/1l0cnS-PJ3I5TwcxpGLklDWtQvhY-JnB4/)
